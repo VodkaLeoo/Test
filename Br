@@ -1,0 +1,11 @@
+https://github.com/your-username/your-repo.git
+npm install create-react-app
+npx create-react-app my-app
+cd my-app
+
+npm start
+git add .
+
+git commit -m "Initial commit"
+
+git push origin main
